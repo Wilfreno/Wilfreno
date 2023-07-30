@@ -3,7 +3,7 @@
 **`Web Development Enthusiast`**
 
 
-I'm a **Self-taught Web Developer** and currently a student of **Mindanao State University - Iligan Institute of Technology** studying **Computer Science**. I am passionate in my web development studies and have made several **`Personal Projects`** All my knowledge is acquired through making **`Personal Projects`** from the ground up. I have built **`Personal Projects`** from ground up to expose myself to real or similar development work experience. 
+I'm a **Self-taught Web Developer** and currently a student of **Mindanao State University - Iligan Institute of Technology** studying **Computer Science**. I am passionate in my web development studies and have made several <a href="https://github.com/Wilfreno?tab=repositories">**`Personal Projects`**<a/>. All my knowledge is acquired through making Personal Projects from the ground up. I have built Personal Projects from ground up to expose myself to a real or similar web development work experience. 
 
 <p align="left ">
   <a href="https://www.facebook.com/w.gayongan">
