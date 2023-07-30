@@ -1,5 +1,6 @@
 # Wilfreno Gayongan **(Web Developer)**
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Wilfreno&show_icons=true&theme=rose_pine&border_color=#9ccfd8" />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Wilfreno&show_icons=true&theme=rose_pine&border_color=#9ccfd8" />
 <img  height="190vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wilfreno&layout=compact"/>
 
 ## Front-end 
