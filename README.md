@@ -1,6 +1,6 @@
 # Wilfreno Gayongan **(Web Developer)**
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Wilfreno&show_icons=true&theme=rose_pine&border_color=#9ccfd8" />
-<img  width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wilfreno&layout=compact"/>
+<img  height="190vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wilfreno&layout=compact"/>
 
 ## Front-end 
 <img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
