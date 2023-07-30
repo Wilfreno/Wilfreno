@@ -1,6 +1,6 @@
 # Wilfreno Gayongan
 
-### **`Web Development Enthusiast`**
+### Web Development Enthusiast 🌐
 
 
 I'm a **Self-taught Web Developer** and currently a student of **Mindanao State University - Iligan Institute of Technology** studying **Computer Science**. I am passionate in my web development studies and have made several <a href="https://github.com/Wilfreno?tab=repositories">**`Personal Projects`**<a/>. All my knowledge is acquired through making Personal Projects from the ground up. I have built Personal Projects from ground up to expose myself to a real or similar web development work experience. 
@@ -44,6 +44,6 @@ I'm a **Self-taught Web Developer** and currently a student of **Mindanao State 
 
 
 ## Currently working 🔧
-<a href="">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wilfreno&repo=Hanap-BH"/>
+<a href="https://github.com/Wilfreno/Hanap-BH">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wilfreno&repo=Hanap-BH" alt="Hanap-BH" title="https://github.com/Wilfreno/Hanap-BH"/>
 <a/>
