@@ -1,18 +1,9 @@
 # Wilfreno Gayongan
 
- **Web Development Enthusiast** 🌐
+ **Web Developer** 🌐
 
-I discover my love in programming during the Covid-19 pandemic, Post pandemic i decided to enroll for a CS degree at MSU-IIT but i'm having a difficulty in terms of money and tools for studying web development. I want to financially support myself and still continue learning and becoming a better web developer. Using React / Next.js with Typescript , tailwind-css , and mongoDB / mongoose in the backend and utilizing GOOGLE MAP API i managed to build my very first big project [Hanap-BH](https://github.com/Wilfreno/Hanap-BH). With this project, i'm confident in my capabilities as a full-time web developer.
+I discover my love in programming during the Covid-19 pandemic, Post pandemic i decided to enroll for a CS degree at MSU-IIT but i'm having a difficulty in terms of money and tools for studying web development. I want to financially support myself and still continue learning and becoming a better web developer. Using React / Next.js with Typescript , tailwind-css , and Node.js for the  the backend i'm currently improving myself by creating my on personal project[croom]([https://github.com/Wilfreno/Hanap-BH](https://github.com/Wilfreno/croom)). With this project, i'm confident in my capabilities as a web developer.
 
-  <a href="https://www.facebook.com/w.gayongan">
-    <img alt="facebook" 
-    title="https://www.facebook.com/w.gayongan" 
-    src="https://custom-icon-badges.demolab.com/badge/facebook-%234267B2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  
-  ```facebook
-  https://www.facebook.com/w.gayongan
-  ```
   
   <a href="https://discord.com/channels/@me">
     <img alt="discord" 
@@ -57,6 +48,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wilfreno&lay
 
 
 ## Currently working 🔧
-<a href="https://github.com/Wilfreno/Hanap-BH">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Wilfreno&repo=Hanap-BH" alt="Hanap-BH" title="https://github.com/Wilfreno/Hanap-BH"/>
+<a href="https://github.com/Wilfreno/croom">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Wilfreno&repo=croom" alt="croom" title="https://github.com/Wilfreno/croom"/>
 <a/>
