@@ -4,17 +4,17 @@
 
 I discover my love in programming during the Covid-19 pandemic, Post pandemic i decided to enroll for a CS degree at MSU-IIT but i'm having a difficulty in terms of money and tools for studying web development. I want to financially support myself and still continue learning and becoming a better web developer. Using React / Next.js with Typescript , tailwind-css , and Node.js for the  the backend i'm currently improving myself by creating my on personal project[croom]([https://github.com/Wilfreno/Hanap-BH](https://github.com/Wilfreno/croom)). With this project, i'm confident in my capabilities as a web developer.
 
-  
-  <a href="https://discord.com/channels/@me">
-    <img alt="discord" 
-    title="https://discord.com/" 
-    src="https://custom-icon-badges.demolab.com/badge/discord-white?style=for-the-badge&logo=discord&logoColor=white&color=%237289da"/>
+<a href="https://www.linkedin.com/in/wgayongan/">
+    <img alt="LinkedIn" 
+    title="LinkedIn" 
+    src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=%230A66C2"/>
   </a>
 
-```discord
-   wilfrenogayongan
 ```
-
+  https://www.linkedin.com/in/wgayongan/
+```
+  
+  
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=new">
   <img alt="gmail"
     title="https://mail.google.com/mail/u/0/#inbox?compose=new"
@@ -32,6 +32,15 @@ I discover my love in programming during the Covid-19 pandemic, Post pandemic i 
 
 ```
   https://wilfreno.vercel.app/
+```
+<a href="https://discord.com/channels/@me">
+    <img alt="discord" 
+    title="https://discord.com/" 
+    src="https://custom-icon-badges.demolab.com/badge/discord-white?style=for-the-badge&logo=discord&logoColor=white&color=%237289da"/>
+  </a>
+
+```discord
+   wilfrenogayongan
 ```
 
 
