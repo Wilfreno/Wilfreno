@@ -33,16 +33,6 @@ I discover my love in programming during the Covid-19 pandemic, Post pandemic i 
 ```
   https://wilfreno.vercel.app/
 ```
-<a href="https://discord.com/channels/@me">
-    <img alt="discord" 
-    title="https://discord.com/" 
-    src="https://custom-icon-badges.demolab.com/badge/discord-white?style=for-the-badge&logo=discord&logoColor=white&color=%237289da"/>
-  </a>
-
-```discord
-   wilfrenogayongan
-```
-
 
  ## Stats 📊
 <p align="center">
@@ -68,6 +58,12 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wilfreno&lay
 
 
 ## Currently working 🔧
-<a href="https://github.com/Wilfreno/croom">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Wilfreno&repo=croom" alt="croom" title="https://github.com/Wilfreno/croom"/>
-<a/>
+
+<p align="left">
+    <a href="https://github.com/Wilfreno/hanapbh">
+        <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Wilfreno&repo=hanapbh" alt="hanapbh" title="https://github.com/Wilfreno/hanapbh"/>
+    <a/>
+    <a href="https://github.com/Wilfreno/personal-website">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wilfreno&repo=personal-website" alt="personal-website" title="https://github.com/Wilfreno/personal-        website"/>
+    <a/>
+</p>
